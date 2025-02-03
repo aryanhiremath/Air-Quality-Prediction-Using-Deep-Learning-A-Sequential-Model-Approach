@@ -3,7 +3,7 @@
 # **Air Quality Prediction Using Deep Learning**
 
 ## **Overview**
-This project builds a **deep learning-based Sequential model** to predict **PM2.5 levels** using air pollutant data such as **NO2, SO2, CO, O3, and PM10**. The dataset used is **city_day.csv**, containing air quality data from different Indian cities
+This project builds a **deep learning-based Sequential model** to predict **PM2.5 levels** using air pollutant data such as **NO2, SO2, CO, O3, and PM10**. The dataset used is **city_day.csv**, containing air quality data from different Indian cities.
 
 ## **Features**
 - **Data Preprocessing**: Handles missing values and selects relevant features.
