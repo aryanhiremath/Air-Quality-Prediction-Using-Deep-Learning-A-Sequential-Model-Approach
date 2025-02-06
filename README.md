@@ -6,7 +6,7 @@
 This project builds a **deep learning-based Sequential model** to predict **PM2.5 levels** using air pollutant data such as **NO2, SO2, CO, O3, and PM10**. The dataset used is **city_day.csv**, containing air quality data from different Indian cities.
 
 ## **Features**
-- **Data Preprocessing**: Handles missing values and selects relevant features
+- **Data Preprocessing**: Handles missing values and selects relevant features.
 - **Feature Scaling**: Uses **StandardScaler** to normalize input data.
 - **Deep Learning Model**: Implements a **Sequential neural network** with **Dense and Dropout layers**.
 - **Model Training**: Uses **Adam optimizer** and trains with validation.
